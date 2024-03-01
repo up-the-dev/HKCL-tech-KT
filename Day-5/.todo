@@ -1,0 +1,4 @@
+[] req-res-fetch-middleware-router
+[] JWT structure
+[] session based Authentication stateful
+[] token based stateless
